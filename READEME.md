@@ -9,5 +9,3 @@ DeepSearcher is a fully local web research and summarization assistant powered b
 - **Local Processing**: All processing happens locally, ensuring privacy and security
 - **Comprehensive Summarization**: Generates detailed reports and summaries from research findings
 - **Modular Architecture**: Clean separation between backend services and frontend interface
-
-## Project Structure

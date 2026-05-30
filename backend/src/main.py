@@ -14,6 +14,8 @@ from pydantic import BaseModel, Field
 
 from config import Configuration, SearchAPI
 from agent import DeepResearchAgent
+from dotenv import load_dotenv
+load_dotenv()
 
 # 添加控制台日志处理程序
 logger.add(
